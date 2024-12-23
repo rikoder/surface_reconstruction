@@ -1,0 +1,190 @@
+{
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/llff_r4/fern": {
+        "model_size": 25.2398099899292,
+        "testing_time": "00:00:02",
+        "metric": {
+            "ours_10000": {
+                "SSIM": 0.6908178925514221,
+                "PSNR": 20.737884521484375,
+                "LPIPS": 0.2630634158849716,
+                "MAE": 0.15410161018371582
+            }
+        }
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/llff_r4/flower": {
+        "model_size": 20.406702041625977,
+        "testing_time": "00:00:04",
+        "metric": {
+            "ours_10000": {
+                "SSIM": 0.6376074552536011,
+                "PSNR": 19.40682601928711,
+                "LPIPS": 0.32499592304229735,
+                "MAE": 0.1412714570760727
+            }
+        }
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/llff_r4/fortress": {
+        "model_size": 14.038164138793945,
+        "testing_time": "00:00:04",
+        "metric": {
+            "ours_10000": {
+                "SSIM": 0.7179861664772034,
+                "PSNR": 22.425966262817383,
+                "LPIPS": 0.2551853880286217,
+                "MAE": 0.17079733312129974
+            }
+        }
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/llff_r4/horns": {
+        "model_size": 19.932024002075195,
+        "testing_time": "00:00:05",
+        "metric": {
+            "ours_10000": {
+                "SSIM": 0.6699824333190918,
+                "PSNR": 18.772863388061523,
+                "LPIPS": 0.32973211258649826,
+                "MAE": 0.09359880536794662
+            }
+        }
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/llff_r4/leaves": {
+        "model_size": 51.207797050476074,
+        "testing_time": "00:00:02",
+        "metric": {
+            "ours_10000": {
+                "SSIM": 0.5130304098129272,
+                "PSNR": 15.84663200378418,
+                "LPIPS": 0.3162190765142441,
+                "MAE": 0.1382080614566803
+            }
+        }
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/llff_r4/orchids": {
+        "model_size": 21.198305130004883,
+        "testing_time": "00:00:04",
+        "metric": {
+            "ours_10000": {
+                "SSIM": 0.46129584312438965,
+                "PSNR": 15.394878387451172,
+                "LPIPS": 0.32731757313013077,
+                "MAE": 0.16342556476593018
+            }
+        }
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/llff_r4/room": {
+        "model_size": 9.750925064086914,
+        "testing_time": "00:00:03",
+        "metric": {
+            "ours_10000": {
+                "SSIM": 0.8739292621612549,
+                "PSNR": 22.172773361206055,
+                "LPIPS": 0.16297350327173868,
+                "MAE": 0.09937393665313721
+            }
+        }
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/llff_r4/trex": {
+        "model_size": 16.717126846313477,
+        "testing_time": "00:00:04",
+        "metric": {
+            "ours_10000": {
+                "SSIM": 0.8159759640693665,
+                "PSNR": 21.754379272460938,
+                "LPIPS": 0.1914006620645523,
+                "MAE": 0.11276871711015701
+            }
+        }
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/llff_r4_6views/fern": {
+        "model_size": 43.11083507537842,
+        "testing_time": "00:00:00"
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/llff_r4_6views/flower": {
+        "model_size": 29.659022331237793,
+        "testing_time": "00:00:01"
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/llff_r4_6views/fortress": {
+        "model_size": 60.20917797088623,
+        "testing_time": "00:00:02"
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/llff_r4_6views/horns": {
+        "model_size": 66.89653301239014,
+        "testing_time": "00:00:02"
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/llff_r4_6views/leaves": {
+        "model_size": 73.19269847869873,
+        "testing_time": "00:00:01"
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/llff_r4_6views/orchids": {
+        "model_size": 46.63414287567139,
+        "testing_time": "00:00:01"
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/llff_r4_6views/room": {
+        "model_size": 37.19356060028076,
+        "testing_time": "00:00:01"
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/llff_r4_6views/trex": {
+        "model_size": 43.95754528045654,
+        "testing_time": "00:00:01"
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/llff_r4_9views/fern": {
+        "model_size": 93.02818584442139,
+        "testing_time": "00:00:00"
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/llff_r4_9views/flower": {
+        "model_size": 62.74150371551514,
+        "testing_time": "00:00:01"
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/llff_r4_9views/fortress": {
+        "model_size": 161.88630199432373,
+        "testing_time": "00:00:02"
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/llff_r4_9views/horns": {
+        "model_size": 185.74248027801514,
+        "testing_time": "00:00:02"
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/llff_r4_9views/leaves": {
+        "model_size": 100.60955333709717,
+        "testing_time": "00:00:01"
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/llff_r4_9views/orchids": {
+        "model_size": 81.09004497528076,
+        "testing_time": "00:00:01"
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/llff_r4_9views/room": {
+        "model_size": 88.04749584197998,
+        "testing_time": "00:00:01"
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/llff_r4_9views/trex": {
+        "model_size": 90.23475170135498,
+        "testing_time": "00:00:02"
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/mipnerf360_og_12views/bicycle": {
+        "model_size": 68.14223766326904,
+        "testing_time": "00:00:13"
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/mipnerf360_og_12views/bonsai": {
+        "model_size": 31.420557975769043,
+        "testing_time": "00:00:09"
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/mipnerf360_og_12views/counter": {
+        "model_size": 46.641947746276855,
+        "testing_time": "00:00:07"
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/mipnerf360_og_12views/garden": {
+        "model_size": 277.5476264953613,
+        "testing_time": "00:00:14"
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/mipnerf360_og_12views/kitchen": {
+        "model_size": 170.64336681365967,
+        "testing_time": "00:00:09"
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/mipnerf360_og_12views/room": {
+        "model_size": 71.70078563690186,
+        "testing_time": "00:00:09"
+    },
+    "/home/rikhilgupta/Desktop/Benchmarks/CoR-GS_og/output/mipnerf360_og_12views/stump": {
+        "model_size": 77.38225841522217,
+        "testing_time": "00:00:09"
+    }
+}
